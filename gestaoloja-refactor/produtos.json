@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "descricao": "Tênis da Nike",
+    "cor": "Azul",
+    "quantidade": 2,
+    "preco": 199.0
+  },
+  {
+    "id": 2,
+    "descricao": "Boné da Nike",
+    "cor": "Rosa",
+    "quantidade": 69,
+    "preco": 24.0
+  },
+  {
+    "id": 3,
+    "descricao": "Bicicleta",
+    "cor": "Verde",
+    "quantidade": 1,
+    "preco": 1999.0
+  },
+  {
+    "id": 4,
+    "descricao": "Ursinho de Pelúcia",
+    "cor": "Marrom",
+    "quantidade": 5,
+    "preco": 299.0
+  }
+]
