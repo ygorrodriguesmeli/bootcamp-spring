@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "descricao": "Filé de frango com arroz",
+    "preco": 15.99,
+    "quantidade": 1
+  },
+  {
+    "id": 2,
+    "descricao": "Filé de frango a parmegiana, acompanhado de arroz",
+    "preco": 19.99,
+    "quantidade": 1
+  },
+  {
+    "id": 3,
+    "descricao": "Feijoada da casa",
+    "preco": 18.99,
+    "quantidade": 1
+  }
+]
